@@ -1,6 +1,7 @@
 use go run or build run for project
 
 ## format
+```
 go run ./ -h
   -h    Help message
   -l string
@@ -9,3 +10,4 @@ go run ./ -h
         SturdyCaps
   -u string
         Upper Camel
+```
